@@ -1,4 +1,4 @@
-export const page1 = () => {
+const page1 = () => {
     return (
         <div>
             <h1>Página 1</h1>
